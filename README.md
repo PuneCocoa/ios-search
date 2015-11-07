@@ -25,17 +25,17 @@ Core Spotlight :
 	- can be done in background (Core Spotlight defines an app extension you can implement to index items when your app isn’t running.)
 	
 Web markup : 
+
 	- apps that mirror their public content from a web site
 	- WWDC app
 	- creating Deep Links from app
 	- use web markup to let Apple’s web crawler (called Applebot) index your content in Apple’s server-side index and make it available to all iOS users in Spotlight and Safari search results.
 	- make website contents searchable, deep linking
 	
-	Choosing Search : https://developer.apple.com/library/ios/documentation/General/Conceptual/AppSearch/Choosing.html#//apple_ref/doc/uid/TP40016308-CH3-SW1
+	- Choosing Search : https://developer.apple.com/library/ios/documentation/General/Conceptual/AppSearch/Choosing.html#//apple_ref/doc/uid/TP40016308-CH3-SW1
 
-	Best Practices: 
+	- Best Practices: 
 https://developer.apple.com/library/ios/documentation/General/Conceptual/AppSearch/SearchUserExperience.html#//apple_ref/doc/uid/TP40016308-CH11-SW1
 
-	Technical Notes:
-	
+	- Technical Notes:
 https://developer.apple.com/library/prerelease/ios/technotes/tn2416/_index.html
