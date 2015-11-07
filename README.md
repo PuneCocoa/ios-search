@@ -8,6 +8,7 @@ Two types of indexes:
 	- Apple’s server-side index. The server-side index stores only publicly available data that you’ve marked appropriately on your website.
 
 NSUserActivity : 
+
 	- Using Handoff
 	- if a task can be represented as an NSUserActivity to be handed off to a different device e.g. watch
 	- it can be stored in a search index and later continued on the same device.
@@ -15,6 +16,7 @@ NSUserActivity :
 	- make app states and navigation points searchable
 
 Core Spotlight :
+
 	- Conventional, Apple only now out in wild
 	- Can index virually everything
 	- Best way for full search capability
