@@ -33,7 +33,7 @@ Web markup :
 	- make website contents searchable, deep linking
 	
 
-	- Choosing Search : 
+	- Choosing Search Type: 
 https://developer.apple.com/library/ios/documentation/General/Conceptual/AppSearch/Choosing.html#//apple_ref/doc/uid/TP40016308-CH3-SW1
 
 	- Best Practices: 
