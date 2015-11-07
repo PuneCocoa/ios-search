@@ -32,7 +32,8 @@ Web markup :
 	- use web markup to let Apple’s web crawler (called Applebot) index your content in Apple’s server-side index and make it available to all iOS users in Spotlight and Safari search results.
 	- make website contents searchable, deep linking
 	
-	- Choosing Search : https://developer.apple.com/library/ios/documentation/General/Conceptual/AppSearch/Choosing.html#//apple_ref/doc/uid/TP40016308-CH3-SW1
+	- Choosing Search : 
+https://developer.apple.com/library/ios/documentation/General/Conceptual/AppSearch/Choosing.html#//apple_ref/doc/uid/TP40016308-CH3-SW1
 
 	- Best Practices: 
 https://developer.apple.com/library/ios/documentation/General/Conceptual/AppSearch/SearchUserExperience.html#//apple_ref/doc/uid/TP40016308-CH11-SW1
